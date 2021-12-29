@@ -1,5 +1,5 @@
 import { Component, OnInit, AfterContentChecked } from '@angular/core';
-import { FormBuilder, FormControl, FormGroup, Validator, Validators } from '@angular/forms';
+import { FormBuilder, FormGroup, Validator, Validators } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 
 import { Category } from '../shared/category.model';
